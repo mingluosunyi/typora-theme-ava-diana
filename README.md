@@ -10,7 +10,7 @@ A typora theme for Ava and Diana,two lovely idols.
 
 ## Screen Shots
 
-![img1](https://cdn.jsdelivr.net/gh/mingluosunyi/pictures/typora展示1.png)
+![img1](https://cdn.jsdelivr.net/gh/mingluosunyi/pictures/typora%E5%B1%95%E7%A4%BA1.png)
 ![img2](https://cdn.jsdelivr.net/gh/mingluosunyi/pictures/typora.png)
 ![img3](https://cdn.jsdelivr.net/gh/mingluosunyi/pictures/typora%E5%B1%95%E7%A4%BA2.png)
 ![img4](https://cdn.jsdelivr.net/gh/mingluosunyi/pictures/typora%E5%B1%95%E7%A4%BA3.png)
