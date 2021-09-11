@@ -1,5 +1,6 @@
 # typora-theme-ava-diana
 A typora theme for Ava and Diana,two lovely idols.
+
 一个typora主题，写给向晚和嘉然小姐，本来是打算写珈乐主题的，但是紫色配色上真的不是很nice，最后迫不得已选了比较好看的蓝粉配色。
 
 ## features (特点)
