@@ -23,3 +23,5 @@ A typora theme for Ava and Diana,two lovely idols.
 3. Copy `ava-diana.css` and `ava-diana` folder into the newly opened folder. (把下载的`ava-diana.css`和`ava-diana`文件夹复制到新打开的文件夹内。)
  
 4. Restart typora, then select `ava-diana` theme from `Themes` menu. (重启Typora，选择主题。)
+
+> Designed and tested on MacOS. Not fully tested, but should work for Windows/Linux.
