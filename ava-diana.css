@@ -327,7 +327,7 @@ blockquote blockquote {
 .cm-s-inner span.cm-link { color: #5ccfe6; }
 .cm-s-inner span.cm-error { color: #ff3333; }*/
 
-.cm-s-inner.CodeMirror { color: #999; background-color: #fff; }
+.cm-s-inner.CodeMirror { color: #999; background-color: #f8f8f8; }
 .cm-s-inner div.CodeMirror-selected { background: #cfc; }
 .cm-s-inner .CodeMirror-line::selection, .cm-s-inner .CodeMirror-line > span::selection, .cm-s-inner .CodeMirror-line > span > span::selection { background: #cfc; }
 .cm-s-inner .CodeMirror-line::-moz-selection, .cm-s-inner .CodeMirror-line > span::-moz-selection, .cm-s-inner .CodeMirror-line > span > span::-moz-selection { background: #cfc; }
